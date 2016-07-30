@@ -7,6 +7,7 @@ Control de versiones
 
 
 Autores :  Bruno Palacios
+           Lenin Hernandez
 	   Antonio Ortiz (@elros88)
 	   Leonardo Solano
 
