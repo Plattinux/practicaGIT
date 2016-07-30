@@ -4,6 +4,6 @@ Version 1.1
 
 Control de versiones
 
-Autores :  Bruno Palacios
+Autores :  Bruno Palacios Leonardo Solano
 
 Caracas - Venezuela
