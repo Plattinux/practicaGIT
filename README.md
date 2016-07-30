@@ -4,7 +4,15 @@ Version 1.1
 
 Control de versiones
 
+
+
 Autores :  Bruno Palacios
+
 	   Carlos Gomez
+
+           Lenin Hernandez
+	   Antonio Ortiz (@elros88)
+	   Leonardo Solano
+
 
 Caracas - Venezuela
