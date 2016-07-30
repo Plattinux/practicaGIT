@@ -4,6 +4,10 @@ Version 1.1
 
 Control de versiones
 
-Autores :  Bruno Palacios Leonardo Solano
+
+
+Autores :  Bruno Palacios
+	   Antonio Ortiz (@elros88)
+	   Leonardo Solano
 
 Caracas - Venezuela
