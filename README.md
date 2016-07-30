@@ -7,17 +7,6 @@ Control de versiones
 
 
 Autores :  Bruno Palacios
-<<<<<<< HEAD
-	   Dylan Nuñez
-
-           Juan Carlos Monsalve Sarmiento
-           Lenin Hernandez
- 	       Antonio Ortiz (@elros88)
-	       Leonardo Solano
-
-	   Marilian Silva
-=======
-
 
 	Kimberling Hernandez
 	Dylan Nuñez
@@ -28,9 +17,6 @@ Autores :  Bruno Palacios
 	Antonio Ortiz (@elros88)
 	Leonardo Solano
 	Marilian Silva
-
->>>>>>> 39dbd7689d256dfd713eed3edfc7a72fdc1e7ac3
-
 
 
 Caracas - Venezuela
