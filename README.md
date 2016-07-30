@@ -5,5 +5,6 @@ Version 1.1
 Control de versiones
 
 Autores :  Bruno Palacios
+Autores : Kimberling Hernandez
 
 Caracas - Venezuela
