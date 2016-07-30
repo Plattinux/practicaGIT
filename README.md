@@ -8,11 +8,15 @@ Control de versiones
 
 Autores :  Bruno Palacios
 
+
 	   Kimberling Hernandez
 
+
+           Juan Carlos Monsalve Sarmiento
+
            Lenin Hernandez
-	   Antonio Ortiz (@elros88)
-	   Leonardo Solano
+ 	       Antonio Ortiz (@elros88)
+	       Leonardo Solano
 
 
 Caracas - Venezuela
